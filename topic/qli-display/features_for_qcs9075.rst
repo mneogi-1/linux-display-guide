@@ -30,7 +30,7 @@ See the appropriate chip product for device-specific information.
 
             .. note:: 
                 
-                - Enable SSH to access your host device. For more information, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/how_to.html#use-ssh>`__.
+                - Enable SSH to access your host device. For more information, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/how_to.html#use-ssh>`__.
 
                 - When prompted for a password, enter ``oelinux123``.
     
@@ -83,7 +83,7 @@ See the appropriate chip product for device-specific information.
 
         .. note:: 
 
-                - You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/how_to.html#use-ssh>`__.
+                - You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/how_to.html#use-ssh>`__.
 
                 - To mount the ``debugfs`` file system to access the ``debugfs`` details of the display subsystem, run the following commands:
 
@@ -125,7 +125,7 @@ See the appropriate chip product for device-specific information.
         
                 .. note:: 
                 
-                    - You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/how_to.html#use-ssh>`__.
+                    - You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/how_to.html#use-ssh>`__.
 
                     - To mount the ``debugfs`` file system to access the ``debugfs`` details of the display subsystem, run the following commands:
 
@@ -237,7 +237,7 @@ See the appropriate chip product for device-specific information.
     
             .. note:: 
             
-                - You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/how_to.html#use-ssh>`__.
+                - You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/how_to.html#use-ssh>`__.
 
                 - To mount the ``debugfs`` file system to access the ``debugfs`` details of the display subsystem, run the following commands:
 
@@ -351,7 +351,7 @@ XWayland is a compatibility layer that allows X11 applications to run in a Wayla
 
   .. note:: 
     
-    You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/how_to.html#use-ssh>`__.
+    You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/how_to.html#use-ssh>`__.
 
   .. container:: nohighlight
 
@@ -386,7 +386,7 @@ Do the following to configure Weston launch and manually relaunch Weston.
 
   The ``/etc/initscripts/init_qti_display`` script file includes the Weston configurations.
 
-  .. note:: You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/how_to.html#use-ssh>`__.
+  .. note:: You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/how_to.html#use-ssh>`__.
 
 
   .. container:: nohighlight
@@ -409,7 +409,7 @@ Do the following to configure Weston launch and manually relaunch Weston.
 
 To manually relaunch the Weston server after closing the Weston process, do the following:
 
-.. note:: You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/how_to.html#use-ssh>`__.
+.. note:: You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/how_to.html#use-ssh>`__.
 
 1. To identify the ID of the Weston processes, run the following
    commands:

@@ -56,7 +56,7 @@ The following table lists the components of the display hardware architecture.
 Detailed information on the display hardware architecture is available
 to licensed developers with authorized access. For more information, see `Qualcomm Linux Display
 Guide -
-Addendum <https://docs.qualcomm.com/bundle/resource/topics/80-70030-18A/architecture.html#high-level-display-hardware-architecture>`__.
+Addendum <https://docs.qualcomm.com/bundle/resource/topics/80-70033-18A/architecture.html#high-level-display-hardware-architecture>`__.
 
 
 

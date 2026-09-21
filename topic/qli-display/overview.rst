@@ -39,15 +39,15 @@ capabilities:
       connecting video sources to display devices such as computer
       monitors, and can also transmit audio, USB, and other data forms
 
-The |80-70030-50_link|_ and the ``libdrm`` APIs expose the hardware capabilities of the Adreno DPU engines.
+The |80-70033-50_link|_ and the ``libdrm`` APIs expose the hardware capabilities of the Adreno DPU engines.
 
 
 .. note:: 
-   See `Hardware SoCs <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-115/soc.html>`__ that are supported on Qualcomm\ :sup:`®` Linux\ :sup:`®`.
+   See `Hardware SoCs <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-115/soc.html>`__ that are supported on Qualcomm\ :sup:`®` Linux\ :sup:`®`.
    
-.. _80-70030-50_link: https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-50/overview.html
+.. _80-70033-50_link: https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-50/overview.html
  
-.. |80-70030-50_link| replace:: Qualcomm\ :sup:`®` Intelligent Multimedia SDK (IM SDK)
+.. |80-70033-50_link| replace:: Qualcomm\ :sup:`®` Intelligent Multimedia SDK (IM SDK)
 
 
 .. include:: architecture.rst

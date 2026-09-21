@@ -95,7 +95,7 @@ Configure
 
          Setting up the custom splash logo in UEFI is available to licensed developers with authorized access. For more information, see **Configure** in
          `Qualcomm Linux Display Guide -
-         Addendum <https://docs.qualcomm.com/bundle/resource/topics/80-70030-18A/configure.html>`__.
+         Addendum <https://docs.qualcomm.com/bundle/resource/topics/80-70033-18A/configure.html>`__.
 
 
 

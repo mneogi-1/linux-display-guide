@@ -63,7 +63,7 @@ Software APIs
    - Weston API: facilitates interactions with the DRM compositor. For the Weston APIs, see `Wayland client APIs <https://wayland.freedesktop.org/docs/html/apb.html>`__ and `Wayland server APIs <https://wayland.freedesktop.org/docs/html/apc.html>`__.
    - ``libdrm`` API: facilitates interactions with the DRM/KMS framework. For the APIs, see `libdrm <https://dri.freedesktop.org/docs/drm/gpu/drm-uapi.html>`__.
 
-   Qualcomm provides you the GStreamer-based plugins. You can add the Waylandsink plugin to your media pipeline from `IM SDK plugins <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-50/qim-sdk-plugins.html>`__.
+   Qualcomm provides you the GStreamer-based plugins. You can add the Waylandsink plugin to your media pipeline from `IM SDK plugins <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-50/qim-sdk-plugins.html>`__.
 
    For more information, see `GStreamer application development and pipeline creation <https://gstreamer.freedesktop.org/documentation/application-development/basics/index.html>`__.
 

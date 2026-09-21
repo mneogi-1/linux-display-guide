@@ -19,12 +19,12 @@ Related documents
       - :cspan:`1` **Qualcomm Technologies, Inc.**
       
    - 
-      - `Qualcomm Linux Build Guide <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/introduction.html>`__
-      -  80-70030-254 
+      - `Qualcomm Linux Build Guide <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/introduction.html>`__
+      -  80-70033-254 
 
    -
-      - `Qualcomm IM SDK <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-50/overview.html>`__
-      -  80-70030-50 
+      - `Qualcomm IM SDK <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-50/overview.html>`__
+      -  80-70033-50 
 
    - 
       - :cspan:`1` **Open-source**

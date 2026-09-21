@@ -75,7 +75,7 @@ See the appropriate chip product for device-specific information.
 
                   .. note:: 
 
-                      You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/how_to.html#use-ssh>`__.
+                      You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/how_to.html#use-ssh>`__.
                         
 
                   .. container:: nohighlight
@@ -145,9 +145,9 @@ See the appropriate chip product for device-specific information.
 
                   .. note::
 
-                       You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/how_to.html#use-ssh>`__.
+                       You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/how_to.html#use-ssh>`__.
 
-                  1.  Ensure that you have the latest software. If you don't, see `Release Notes <https://docs.qualcomm.com/doc/80-70030-300>`__ and `Qualcomm Linux Build Guide <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/introduction.html>`__.
+                  1.  Ensure that you have the latest software. If you don't, see `Release Notes <https://docs.qualcomm.com/doc/80-70033-300>`__ and `Qualcomm Linux Build Guide <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/introduction.html>`__.
 
                   #. To generate the binary, go to the workspace <workspace> and run the following commands:
                   
@@ -200,7 +200,7 @@ See the appropriate chip product for device-specific information.
 
                   .. note::
 
-                       You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/how_to.html#use-ssh>`__.
+                       You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/how_to.html#use-ssh>`__.
 
                   #. To kill the Weston client application, run the following commands in the device shell:
 
@@ -388,7 +388,7 @@ See the appropriate chip product for information about your device.
 
                   .. note:: 
 
-                        You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/how_to.html#use-ssh>`__.
+                        You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/how_to.html#use-ssh>`__.
                         
 
                   .. container:: nohighlight
@@ -451,11 +451,11 @@ See the appropriate chip product for information about your device.
 
                   .. note::
 
-                       You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/how_to.html#use-ssh>`__.
+                       You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/how_to.html#use-ssh>`__.
 
                   By default, the DRM modetest binary isn't included in the display subsystem. To generate the DRM modetest binary file, do the following:
 
-                  1. Ensure that you have the latest software. If you don't, see `Release Notes <https://docs.qualcomm.com/doc/80-70030-300>`__ and `Qualcomm Linux Build Guide <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/introduction.html>`__.
+                  1. Ensure that you have the latest software. If you don't, see `Release Notes <https://docs.qualcomm.com/doc/80-70033-300>`__ and `Qualcomm Linux Build Guide <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/introduction.html>`__.
 
                   #. To generate the binary, go to the workspace <workspace> and run the following commands:
                   
@@ -507,7 +507,7 @@ See the appropriate chip product for information about your device.
 
                   .. note::
 
-                       You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/how_to.html#use-ssh>`__.
+                       You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/how_to.html#use-ssh>`__.
 
                   1. To kill the Weston client application, run the following commands in the device shell:
 
@@ -663,7 +663,7 @@ See the appropriate chip product for information about your device.
 
                   .. note:: 
 
-                        You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/how_to.html#use-ssh>`__.
+                        You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/how_to.html#use-ssh>`__.
                         
 
                   .. container:: nohighlight
@@ -728,9 +728,9 @@ See the appropriate chip product for information about your device.
 
                   .. note::
 
-                       You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/how_to.html#use-ssh>`__.
+                       You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/how_to.html#use-ssh>`__.
 
-                  1.  Ensure that you have the latest software. If you don't, see `Release Notes <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-300>`__ and `Qualcomm Linux Build Guide <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/introduction.html>`__.
+                  1.  Ensure that you have the latest software. If you don't, see `Release Notes <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-300>`__ and `Qualcomm Linux Build Guide <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/introduction.html>`__.
 
                   #. To generate the binary, go to the workspace <workspace> and run the following commands:
                   
@@ -783,7 +783,7 @@ See the appropriate chip product for information about your device.
 
                   .. note::
 
-                       You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-254/how_to.html#use-ssh>`__.
+                       You must enable SSH to access your host device. For instructions, see `Sign in using SSH <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-254/how_to.html#use-ssh>`__.
 
 
                   1. To kill the Weston client application, run the following commands in the device shell:
@@ -890,13 +890,13 @@ See the appropriate chip product for information about your device.
             ..      Run GStreamer video playback applications
             ..      --------------------------------------------------
 
-            ..       To run the GStreamer sample applications, you must ensure that the DisplayPort setup is verified. For information on prerequisites, see `Sample applications <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-50/example-applications.html>`__.
+            ..       To run the GStreamer sample applications, you must ensure that the DisplayPort setup is verified. For information on prerequisites, see `Sample applications <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-50/example-applications.html>`__.
 
-            ..       To run the sample video test cases using ``gst-launch-1-0``, see `With video playback as an example <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-50/video-playback-use-cases.html>`__.
+            ..       To run the sample video test cases using ``gst-launch-1-0``, see `With video playback as an example <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-50/video-playback-use-cases.html>`__.
 
             ..       .. note:: 
                         
-            ..             Before running the test cases, ensure that you meet the `prerequisites <https://docs.qualcomm.com/bundle/publicresource/topics/80-70030-50/gstreamer-application-use-cases.html>`__.
+            ..             Before running the test cases, ensure that you meet the `prerequisites <https://docs.qualcomm.com/bundle/publicresource/topics/80-70033-50/gstreamer-application-use-cases.html>`__.
 
 
 
