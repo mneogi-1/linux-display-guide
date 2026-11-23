@@ -444,7 +444,7 @@ To manually relaunch the Weston server after closing the Weston process, do the 
     
        - You can skip the following command if the modetest application is already running. 
        
-       - Run the following command only if Weston is still active. Otherwise, proceed directly to ``systemctl start init_display.service``.
+       - Run the following command only if Weston is still active. Otherwise, proceed directly to step 3.
 
    .. container:: nohighlight
 
