@@ -6,7 +6,7 @@ Display software architecture
 ===============================
 
 The display subsystem consists of Wayland, a display server protocol,
-and its compositors, such as Weston. Wayland uses a client/server model where the client application interacts with the Wayland server.
+and its compositors, such as Weston. Wayland uses a client/server model in which the client application interacts with the Wayland server.
 
 .. figure:: ../../media/qli-display/display_software_architecture.svg
    :align: center
